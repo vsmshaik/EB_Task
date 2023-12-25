@@ -1,4 +1,4 @@
-import { Height } from '@material-ui/icons';
+
 import React from 'react';
 
 const Logo = (props) => {
